@@ -20,28 +20,26 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+IA Fun Tests
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Fiz esse projeto com o intuito de testar diversas IA's na prática. Foi bem divertido.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+D-ID: https://www.d-id.com
+ElevenLabs: https://elevenlabs.io
+Simplified: https://app.simplified.com/design
+Pareto: https://tess.pareto.io/pt-BR/dashboard/user/ai
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Tive várias ideias, criei um audio me apresentando e um video super curto de apresentação também, depois fiz slides descrevendo a importancia dos estudos de IA e criei uma imagem utilizando minha criatividade.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-
-https://github.com/vivikamizono/lab-natty-or-not/assets/101277316/6ca87b5c-b7b8-489b-bea3-ef94de2c951e
-
-
-
+Como fiz o uso de imagens e audios, coloquei todos em uma pasta no google drive:
+https://drive.google.com/drive/folders/1sUZxJADZM3Sw3Rjw643T-gJKppHMVqu0?usp=drive_link
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+A IA está muito presente nas nossas vidas e com esse projeto, além de podermos práticar colocando a "mão na massa", podemos ver que os usos desses programas podem ser muito uteis mas devemos sempre tomar cuidado com golpes e outras maldades da internet. Foi um projeto super bem pensado do professor. Adorei, nota mil!
 ```
 
 ### Exemplos e Insigths
