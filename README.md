@@ -34,6 +34,12 @@ Descreva como você criou o conteúdo
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
+
+https://github.com/vivikamizono/lab-natty-or-not/assets/101277316/6ca87b5c-b7b8-489b-bea3-ef94de2c951e
+
+
+
+
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
 ```
